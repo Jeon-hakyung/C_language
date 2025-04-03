@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A668D607-AC43-4E82-B921-F9CD2E39F602}|homework6\\homework6.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\homework6\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A668D607-AC43-4E82-B921-F9CD2E39F602}|homework6\\homework6.vcxproj|solutionrelative:homework6\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE7FF981-7370-435B-B5F7-2A19071C4250}|practice0403_2\\practice0403_2.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\practice0403_2\\practice_p57.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE7FF981-7370-435B-B5F7-2A19071C4250}|practice0403_2\\practice0403_2.vcxproj|solutionrelative:practice0403_2\\practice_p57.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6670E449-B4E1-44F7-A604-E3317077F534}|week5\\week5.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\week5\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6670E449-B4E1-44F7-A604-E3317077F534}|week5\\week5.vcxproj|solutionrelative:week5\\pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A259A020-C8C1-4985-B4DC-6DDB4CAD7A35}|homework1\\homework1.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\homework1\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A259A020-C8C1-4985-B4DC-6DDB4CAD7A35}|homework1\\homework1.vcxproj|solutionrelative:homework1\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099BF33-DB1D-43CB-B25E-F8786C64EECF}|practice0403\\practice0403.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\practice0403\\practice_p51.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5099BF33-DB1D-43CB-B25E-F8786C64EECF}|practice0403\\practice0403.vcxproj|solutionrelative:practice0403\\practice_p51.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\homework1\\hello.c",
+              "RelativeDocumentMoniker": "homework1\\hello.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\homework1\\hello.c",
+              "RelativeToolTip": "homework1\\hello.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T02:37:35.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\homework6\\hello.c",
+              "RelativeDocumentMoniker": "homework6\\hello.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\homework6\\hello.c",
+              "RelativeToolTip": "homework6\\hello.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T02:29:17.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "practice_p57.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\practice0403_2\\practice_p57.c",
+              "RelativeDocumentMoniker": "practice0403_2\\practice_p57.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\practice0403_2\\practice_p57.c",
+              "RelativeToolTip": "practice0403_2\\practice_p57.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T02:05:33.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "practice_p51.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\practice0403\\practice_p51.c",
+              "RelativeDocumentMoniker": "practice0403\\practice_p51.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\practice0403\\practice_p51.c",
+              "RelativeToolTip": "practice0403\\practice_p51.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-03T01:55:23.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "pointer.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\week5\\pointer.c",
               "RelativeDocumentMoniker": "week5\\pointer.c",
               "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week5\\week5\\pointer.c",
               "RelativeToolTip": "week5\\pointer.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-01T00:07:15.302Z",
               "EditorCaption": ""

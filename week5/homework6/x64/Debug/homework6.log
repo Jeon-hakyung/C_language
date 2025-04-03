@@ -1,0 +1,3 @@
+﻿  hello.c
+C:\Users\DS\Desktop\C언어 20210791\week5\homework6\hello.c(11,14): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  homework6.vcxproj -> C:\Users\DS\Desktop\C언어 20210791\week5\x64\Debug\homework6.exe
