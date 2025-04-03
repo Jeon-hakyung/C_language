@@ -1,0 +1,4 @@
+﻿  project2.c
+C:\Users\DS\Desktop\C언어 20210791\week03\Project2\project2.c(10,6): warning C4101: 'average' :참조되지 않은 지역 변수입니다.
+C:\Users\DS\Desktop\C언어 20210791\week03\Project2\project2.c(10,14): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  Project2.vcxproj -> C:\Users\DS\Desktop\C언어 20210791\week03\x64\Debug\Project2.exe
