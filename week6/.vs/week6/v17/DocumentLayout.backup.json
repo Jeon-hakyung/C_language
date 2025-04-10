@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{288E5719-CD84-46E2-8742-18307591DE50}|homework4\\homework4.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\homework4\\homework4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{288E5719-CD84-46E2-8742-18307591DE50}|homework4\\homework4.vcxproj|solutionrelative:homework4\\homework4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF4747F-4077-4D9E-A31F-6AFA062D8A1C}|practice5\\practice5.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice5\\practice5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CF4747F-4077-4D9E-A31F-6AFA062D8A1C}|practice5\\practice5.vcxproj|solutionrelative:practice5\\practice5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFB875AB-98BF-4DE1-A5AF-57B85F5CFC31}|practice4\\practice4.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice4\\practice4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BFB875AB-98BF-4DE1-A5AF-57B85F5CFC31}|practice4\\practice4.vcxproj|solutionrelative:practice4\\practice4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33735A49-23CC-4FFC-B590-6ED14D640567}|practice3\\practice3.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice3\\practice3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{33735A49-23CC-4FFC-B590-6ED14D640567}|practice3\\practice3.vcxproj|solutionrelative:practice3\\practice3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{65375615-B01C-4166-A8B8-DBC078676567}|practice1\\practice1.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice1\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{65375615-B01C-4166-A8B8-DBC078676567}|practice1\\practice1.vcxproj|solutionrelative:practice1\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49C6930C-81DA-4C1D-B0CB-EAB492D7284C}|homework1\\homework1.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\homework1\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49C6930C-81DA-4C1D-B0CB-EAB492D7284C}|homework1\\homework1.vcxproj|solutionrelative:homework1\\homework1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,38 +43,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "homework4.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\homework4\\homework4.c",
+              "RelativeDocumentMoniker": "homework4\\homework4.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\homework4\\homework4.c*",
+              "RelativeToolTip": "homework4\\homework4.c*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T02:39:35.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "practice5.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice5\\practice5.c",
+              "RelativeDocumentMoniker": "practice5\\practice5.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice5\\practice5.c",
+              "RelativeToolTip": "practice5\\practice5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T02:18:06.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "practice4.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice4\\practice4.c",
+              "RelativeDocumentMoniker": "practice4\\practice4.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice4\\practice4.c",
+              "RelativeToolTip": "practice4\\practice4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-10T01:53:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "homework1.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\homework1\\homework1.c",
+              "RelativeDocumentMoniker": "homework1\\homework1.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\homework1\\homework1.c",
+              "RelativeToolTip": "homework1\\homework1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-08T01:14:37.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "practice3.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice3\\practice3.c",
               "RelativeDocumentMoniker": "practice3\\practice3.c",
-              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice3\\practice3.c*",
-              "RelativeToolTip": "practice3\\practice3.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice3\\practice3.c",
+              "RelativeToolTip": "practice3\\practice3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-08T00:55:39.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "practice2.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice2\\practice2.c",
               "RelativeDocumentMoniker": "practice2\\practice2.c",
               "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice2\\practice2.c",
               "RelativeToolTip": "practice2\\practice2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-08T00:24:47.818Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "practice.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice1\\practice.c",
               "RelativeDocumentMoniker": "practice1\\practice.c",
               "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week6\\practice1\\practice.c",
               "RelativeToolTip": "practice1\\practice.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-08T00:08:19.029Z",
               "EditorCaption": ""

@@ -1,2 +1,4 @@
 ﻿  practice3.c
+C:\Users\DS\Desktop\C언어 20210791\week6\practice3\practice3.c(7,15): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\DS\Desktop\C언어 20210791\week6\practice3\practice3.c(8,3): warning C4013: '_putch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
   practice3.vcxproj -> C:\Users\DS\Desktop\C언어 20210791\week6\x64\Debug\practice3.exe
