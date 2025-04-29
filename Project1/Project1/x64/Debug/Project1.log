@@ -1,0 +1,10 @@
+﻿  1.c
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(9,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(11,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(11,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(13,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(13,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(15,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\DS\Desktop\C언어 20210791\Project1\Project1\1.c(15,9): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+  Project1.vcxproj -> C:\Users\DS\Desktop\C언어 20210791\Project1\x64\Debug\Project1.exe

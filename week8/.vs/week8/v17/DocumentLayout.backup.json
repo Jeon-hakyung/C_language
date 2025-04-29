@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21623097-81D6-4C08-996F-97D6F35EF212}|Project1\\Project1.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21623097-81D6-4C08-996F-97D6F35EF212}|Project1\\Project1.vcxproj|solutionrelative:Project1\\hello2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E118CE-E792-4EFE-B4F0-AD0D9E0B3D95}|week8.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24E118CE-E792-4EFE-B4F0-AD0D9E0B3D95}|week8.vcxproj|solutionrelative:hello.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello2.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c",
+              "RelativeDocumentMoniker": "Project1\\hello2.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c*",
+              "RelativeToolTip": "Project1\\hello2.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T00:57:58.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\hello.c",
+              "RelativeDocumentMoniker": "hello.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\hello.c",
+              "RelativeToolTip": "hello.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-29T00:52:29.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
