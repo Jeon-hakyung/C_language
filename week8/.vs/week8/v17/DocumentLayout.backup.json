@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3EE93BB7-396A-405A-BB94-7240EDF26786}|..\\Mid\\Mid.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Mid\\Mid4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32FFCC15-0DB7-4C64-A6E2-6D1C8E26BA21}|..\\Mid6\\Mid6.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Mid6\\Mid6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21623097-81D6-4C08-996F-97D6F35EF212}|Project1\\Project1.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21623097-81D6-4C08-996F-97D6F35EF212}|Project1\\Project1.vcxproj|solutionrelative:Project1\\hello2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,24 +24,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mid6.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Mid6\\Mid6.c",
+              "RelativeDocumentMoniker": "..\\Mid6\\Mid6.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Mid6\\Mid6.c",
+              "RelativeToolTip": "..\\Mid6\\Mid6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T02:07:44.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mid4.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Mid\\Mid4.c",
+              "RelativeDocumentMoniker": "..\\Mid\\Mid4.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Mid\\Mid4.c*",
+              "RelativeToolTip": "..\\Mid\\Mid4.c*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-01T01:47:31.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "hello2.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c",
               "RelativeDocumentMoniker": "Project1\\hello2.c",
-              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c*",
-              "RelativeToolTip": "Project1\\hello2.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\Project1\\hello2.c",
+              "RelativeToolTip": "Project1\\hello2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-04-29T00:57:58.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "hello.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\week8\\hello.c",
               "RelativeDocumentMoniker": "hello.c",
@@ -43,8 +75,7 @@
               "RelativeToolTip": "hello.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-29T00:52:29.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T00:52:29.132Z"
             }
           ]
         }
