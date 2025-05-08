@@ -1,0 +1,27 @@
+﻿  Homework5.c
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,125): warning C4477: 'scanf_s' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,125):
+      이 인수는 변환 지정자에서 사용됩니다.
+  
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,125): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,125):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,125):
+      누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,125):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,140): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,230): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,230):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,230):
+      누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+      C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,230):
+      이 인수는 버퍼 크기로 사용됩니다.
+  
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,311): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,336): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,336): warning C4313: 'printf': 서식 문자열의 '%d'이(가) char *' 형식의 인수 1과(와) 충돌합니다.
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,1): error C4700: 초기화되지 않은 'title' 지역 변수를 사용했습니다.
+C:\Users\DS\Desktop\C언어 20210791\Homework5\Homework5.c(10,1): warning C4716: 'fill': 값을 반환해야 합니다.

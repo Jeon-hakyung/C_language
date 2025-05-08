@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051C78F4-231C-4ED9-8E1A-A0EBB0C0CBF9}|..\\Homework5\\Homework5.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Homework5\\Homework5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C035D888-CA3E-4BE6-BEF8-6FBB4AE03081}|Week10.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week10\\enumpractice1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C035D888-CA3E-4BE6-BEF8-6FBB4AE03081}|Week10.vcxproj|solutionrelative:enumpractice1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Homework5.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Homework5\\Homework5.c",
+              "RelativeDocumentMoniker": "..\\Homework5\\Homework5.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Homework5\\Homework5.c",
+              "RelativeToolTip": "..\\Homework5\\Homework5.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T02:35:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enumpractice1.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week10\\enumpractice1.c",
+              "RelativeDocumentMoniker": "enumpractice1.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week10\\enumpractice1.c",
+              "RelativeToolTip": "enumpractice1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T02:01:51.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
