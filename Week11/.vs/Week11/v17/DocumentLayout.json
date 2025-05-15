@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week11\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6BEEB53-D2B5-40FC-B6AB-794812B9FC49}|..\\Project4\\Project4.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Project4\\mile2km.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DE78ABAB-C1F3-417B-B3C2-5B148CCFAE97}|Week11.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week11\\exam.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DE78ABAB-C1F3-417B-B3C2-5B148CCFAE97}|Week11.vcxproj|solutionrelative:exam.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "mile2km.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Project4\\mile2km.c",
+              "RelativeDocumentMoniker": "..\\Project4\\mile2km.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Project4\\mile2km.c",
+              "RelativeToolTip": "..\\Project4\\mile2km.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-15T02:24:26.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "exam.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week11\\exam.c",
               "RelativeDocumentMoniker": "exam.c",
               "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\Week11\\exam.c",
               "RelativeToolTip": "exam.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-13T01:13:12.844Z",
               "EditorCaption": ""
