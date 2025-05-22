@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30479B82-A94B-474C-BAD0-0A6A08F1463F}|..\\stream3\\stream3.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream3\\stream3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128BC6C9-E4FD-4556-8257-8D5CC7C1A900}|..\\stream2\\stream2.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream2\\stream2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{410B0150-B872-4AA0-A234-17D22AE1EA2A}|stream.vcxproj|C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream\\stream.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{410B0150-B872-4AA0-A234-17D22AE1EA2A}|stream.vcxproj|solutionrelative:stream.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +25,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "stream3.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream3\\stream3.c",
+              "RelativeDocumentMoniker": "..\\stream3\\stream3.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream3\\stream3.c",
+              "RelativeToolTip": "..\\stream3\\stream3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T02:12:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stream2.c",
+              "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream2\\stream2.c",
+              "RelativeDocumentMoniker": "..\\stream2\\stream2.c",
+              "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream2\\stream2.c",
+              "RelativeToolTip": "..\\stream2\\stream2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-22T01:54:43.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "stream.c",
               "DocumentMoniker": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream\\stream.c",
               "RelativeDocumentMoniker": "stream.c",
               "ToolTip": "C:\\Users\\DS\\Desktop\\C\uC5B8\uC5B4 20210791\\stream\\stream.c",
               "RelativeToolTip": "stream.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-20T01:11:42.839Z",
               "EditorCaption": ""
